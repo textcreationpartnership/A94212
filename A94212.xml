@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyrical catechisme betwixt a newter and a Round-head. Also how the Round-head converted the newter, and promised him an excise office. Very pleasing to reade to all those which love God, honour their King, and are their own wel-wishers. With a song. N. stands for newter, and R. stands for Round-head.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94212</idno><idno type="EEBO-CITATION">99863430</idno>
+  <idno type="VID">115632</idno>
+  <idno type="EEBO-PROQUEST">2240959798</idno>
+  
+            <idno type="STC">Wing S724</idno>
+            <idno type="STC">Thomason E449_1</idno>
+            <idno type="STC">ESTC R203485</idno>
+            <idno type="PROQUEST">99863430</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863430e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115632)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyrical catechisme betwixt a newter and a Round-head. Also how the Round-head converted the newter, and promised him an excise office. Very pleasing to reade to all those which love God, honour their King, and are their own wel-wishers. With a song. N. stands for newter, and R. stands for Round-head.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roundheads --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115632:1"/>
+            <p>
+               <hi>A SATYRICAL</hi> CATECHISME BETWIXT A <hi>NEWTER</hi> and a <hi>ROƲND-HEAD.</hi>
+            </p>
+            <p>Also how the <hi>Round-head</hi> converted the <hi>Newter,</hi> and promised him an <hi>Excise</hi> Office.</p>
+            <p>Very pleasing to reade to all those which love <hi>God,</hi> honour their <hi>King,</hi> and are their own wel-wishers. With a Song.</p>
+            <p>
+               <hi>N.</hi> stands for <hi>Newter,</hi> and <hi>R.</hi> stands for <hi>Round-head.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115632:2"/>
+            <head>A Satyrical Catechisme.</head>
+            <p>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>VVHat is your Name?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>
+                        <hi>Round-head:</hi> and Brother!</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Who gave you that Name?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>My Brothers and Sisters.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Who made you?</p>
+                  </sp>
+               </q> the Devil.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>The gods,</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>How many gods be there?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>One.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>How many persons?</p>
+                  </sp>
+               </q> too many more than are good.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>About an hundred.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N</speaker>
+                     <p>Did these gods make any men?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Which be they?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Generals, Colonels, Captaines, Ex<g ref="char:EOLhyphen"/>cise-men, Committees, and the like.</p>
+                  </sp>
+               </q> gods and his sons, like to like, quoth the De<g ref="char:EOLhyphen"/>vil to the Colliar.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>According to what shape and fashion made they them?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>According to their own image.</p>
+                  </sp>
+               </q> kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve-like.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Wherefore did these gods, and gods of bloudy War, raise Warres?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Because the <hi>King</hi> was an obstinate Fel<g ref="char:EOLhyphen"/>low, and would not yield to his lords and gods.</p>
+                  </sp>
+               </q> What a Round<g ref="char:EOLhyphen"/>headed Rogue is this?
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>What, is the <hi>King</hi> such a man as you talke of?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Yes verily, he is a perverse man, an obstinate man, a cruel man, a despiser of these holy gods, a threatner of our Bro<g ref="char:EOLhyphen"/>thers and Sisters, and will surely destroy this Nation.</p>
+                  </sp>
+               </q> These are the cries of rebellious Traitours which accuse falsely in some things a righteous King.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>But are you sure he would root out your Brotherhood?</p>
+                  </sp>
+               </q> As sure as egges be egges, it's pity they have stood so long.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Yes, sure enough.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>But are you sure he would destroy this Nation?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Is there any other like<g ref="char:EOLhyphen"/>lihood, having a bloudy heart?</p>
+                  </sp>
+               </q> The Devil choak you, for sure a lye will not; accursed <hi>Iudas</hi> to speak evilly of thy Master.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Why doth he not come to a personal Treatie?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Because he deserveth not the Crown, he shall or hath no right to the Crown.</p>
+                  </sp>
+               </q> More right than king <hi>Tom</hi> or copper-nose <hi>Oliver</hi> two good bits for the hangman.
+<q>
+                  <sp>
+                     <pb facs="tcp:115632:2"/>
+                     <speaker>N.</speaker>
+                     <p>Why was he not crowned at <hi>Westminster</hi> as other Kings were?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Yes that's certain, but he hath lost his Crown in fighting against the gods of of <hi>England,</hi> and the <hi>saints</hi> of this Nation, and we will give his Crown to one that better deserves it, and he shall have it, and none but he.</p>
+                  </sp>
+               </q> What for resisting Traitours and Rebels must he loose his Crown: know Devils sonnes we will pou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d you in morters; and king <hi>Tom</hi> shall be a head lower than he is if a Rope do not catch him.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>What is he that shall have the Crown, say you?</p>
+                  </sp>
+               </q> A Rebell, I know before hand.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>That high and migh<g ref="char:EOLhyphen"/>ty, illustrious, most famous, most powerfull, most glori<g ref="char:EOLhyphen"/>ous son to the gods at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> named his Excel<g ref="char:EOLhyphen"/>lency my lord <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> general to all the forces under the gods; or that that ever blessed man <hi>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t Oliver Cromwell.</hi>
+                     </p>
+                  </sp>
+               </q> Here are stiles and titles to those which have cut Protestants throats, murdered women, dash't children a<g ref="char:EOLhyphen"/>gainst the walles, which have made the ground sucke Subjects bloud, which desire still more Warres, which thirst after the bloud of Kings and Princes, and to bring three King<g ref="char:EOLhyphen"/>domes to destruction.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Are these men very fit for the Crown?</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Ah, Yes.</p>
+                  </sp>
+               </q> not so fit as they are for the halter.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>What good parts have they? none at all.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>The best parts as may be, namely, obedience to their gods, endow'd with wisdom, having the spirits of their gods alwayes with them, and in love abounding to this Na<g ref="char:EOLhyphen"/>tion.</p>
+                  </sp>
+               </q> The worst that may be, namely, fighting against the God of Hea<g ref="char:EOLhyphen"/>ven, against their King, break<g ref="char:EOLhyphen"/>ing the Lawes of God, and the Lawes of the Land, usurping over three Nations to bring them to ruine.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Did ever the King conspire against his own Father King <hi>James?</hi>
+                     </p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Believe it, and credit it, for it is as sure as I am a <hi>saint</hi> to the gods.</p>
+                  </sp>
+               </q>
+'Tis as false as God is true thou son of Belial.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>'Tis very marveilous to me, for I alwayes took the King to be a wise, discreet man, one never given to lust and impietie.</p>
+                  </sp>
+               </q>
+'Tis very true, that he is a vir<g ref="char:EOLhyphen"/>tuous King, and believe not that Round-head whose tongue is like a poysoned Aspe.
+<q>
+                  <sp>
+                     <pb facs="tcp:115632:3"/>
+                     <speaker>R.</speaker>
+                     <p>Trust me, &amp; believe me, never did any king deserve to be thrust out of his throne but this.</p>
+                  </sp>
+               </q> Never did king deserve a more glorious name than King <hi>Charles,</hi> thou Limb of a Devil.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>What way hath he ever deserv'd to thrust out of the seat of Majestie.</p>
+                  </sp>
+               </q> none at all.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>I will tell you, first for leaving his just, his holy <hi>Parliament,</hi> the gods of <hi>Westminster.</hi>
+                     </p>
+                  </sp>
+               </q> The Devils of ENGLAND.
+<q>
+                  <sp>
+                     <p n="2">2. For raising an Armie to put down the gods</p>
+                  </sp>
+               </q> good reason too.
+<q>
+                  <sp>
+                     <p n="3">3. He strove to put down the Presbyterian Governement, to dissolve the grave Synod.</p>
+                  </sp>
+               </q> A crew of Cater<g ref="char:EOLhyphen"/>pillars.
+<q>
+                  <sp>
+                     <p n="4">4. He vow'd to frustrate the assem<g ref="char:EOLhyphen"/>blings of our Brothers and Si<g ref="char:EOLhyphen"/>sters.</p>
+                  </sp>
+               </q> These saints sprung out of a house of office and baptized therein.
+<q>
+                  <sp>
+                     <p n="5">5. For standing against his Excellencie my lord <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> his lord and master.</p>
+                  </sp>
+               </q> A pretty Bird the son of a Knave, Which stinkes above ground, as he lies in his grave.
+<q>
+                  <sp>
+                     <p n="6">6. For standing against the high mighty <hi>St Oliver Cromwel.</hi>
+                     </p>
+                  </sp>
+               </q> There is a fiery fac'd Gent<g ref="char:EOLhyphen"/>man, and a right Puritan.
+<q>
+                  <sp>
+                     <p n="7">7. For opposing the Armie under the command of the generals my lord <hi>Fairfax,</hi> and <hi>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t Oliver Cromwel.</hi>
+                     </p>
+                  </sp>
+               </q> king <hi>Tom</hi> and his Army here is set down, <hi>Tom</hi> may catch a halter in stead of a Crown.
+<q>
+                  <sp>
+                     <p n="8">8. For fighting in <hi>England</hi> without the gods consent.</p>
+                  </sp>
+               </q> A crew of Devils in the forme of gods.
+<q>
+                  <sp>
+                     <p n="9">9. He vowed to put down all <hi>Excises</hi> and <hi>Excise-men.</hi>
+                     </p>
+                  </sp>
+               </q> A good deed, not so thought by Reprobates.
+<q>
+                  <sp>
+                     <p n="10">10. And lastly, he would put down all the holy Committees under the gods and the armie; the very staffe to uphold three Kingdomes, a strong pillar to this Nation; religious men, wise men, grave men, under<g ref="char:EOLhyphen"/>standing, in grieving at the ca<g ref="char:EOLhyphen"/>lamities of this Nation.</p>
+                  </sp>
+               </q> The very staffe to break our bones, and the very rod to scourge us, a strong pillar to the gods, a weak support to the Nation; witty men ha<g ref="char:EOLhyphen"/>ving the cheaters art, beard<g ref="char:EOLhyphen"/>lesse boyes a many, rejoycing at our destruction.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>To put down the Committees and Excise-men I thinke it is no great mat<g ref="char:EOLhyphen"/>ter, for our Nation can live without them.</p>
+                  </sp>
+               </q> Very well, but knaves will rule the roast.
+<q>
+                  <sp>
+                     <pb facs="tcp:115632:3"/>
+                     <speaker>R.</speaker>
+                     <p>Oh, No, if they were down then we could have no meanes I see from the Citie, nor from the Countrey to maintain the gods and the armie, for they are those that gather it for the <hi>Parliaments</hi> use and to pay the armie; if men will not pay, these are such zea<g ref="char:EOLhyphen"/>lous <hi>saints</hi> that they plunder and pillage, and imprison those that will not pay nor obey the com<g ref="char:EOLhyphen"/>mand of their lords and gods assembled at <hi>Westminster.</hi>
+                     </p>
+                  </sp>
+               </q> Here are Parliament saints indeed, these and the Devils at Westminster make Money their gods; when the King and Kingdom, whilest the Army is not paid, but they are clapping their Dogges on the backe to bite us, to tare us, to kill us poor distressed Sheep, wanting our Shepherd.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Me thinkes it is a very mon<g ref="char:EOLhyphen"/>ster-like part to imprison men for Taxations, what if they are not able to pay you, Will you imprison them.</p>
+                  </sp>
+               </q> Those which are in the Devils jawes, Must sure be torne by his fowle clawes.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Yes, sure enough, for we must have it, and will have, if it be a<g ref="char:EOLhyphen"/>bove ground, we will hold their malignant no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es to the grind<g ref="char:EOLhyphen"/>stone, we will make them worke their fingers to the bones, if not they shall be enslaved all the dayes of their lives.</p>
+                  </sp>
+               </q> Must was for the King, now for the gods, these are those mercifull mercilesse men be<g ref="char:EOLhyphen"/>lieve him he speakes true in this. Before our Monies they will lacke, Poor Protestants shall go to wracke.
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>I had thought your hearts had not been so flinty, Why will you will wrong Christians for no<g ref="char:EOLhyphen"/>thing? to plough long furrowes up<g ref="char:EOLhyphen"/>on their backes?</p>
+                  </sp>
+               </q>
+'Tis often seen, the weakest must go to the wall: Can the Lambe expect any favour from the Wolfe or prick<g ref="char:EOLhyphen"/>ear'd Fox?
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>For this, first, They hate our lords and gods assembled at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> 2. They love King <hi>Charles,</hi> and would have him have the Crown. 3. They cannot abide the Generals nor the Armie. 4. They care not for our Brotherhood, nor the Assemblie of Divines. 5. They cannot abide the Committees nor Excise-men, but they speak evil of good, and of good evil.</p>
+                  </sp>
+               </q> And cause they have enough to hate them; much cause they have to love our graci<g ref="char:EOLhyphen"/>ous King: we are not like to <hi>Pelycans,</hi> to love those which suck our bloud: Can we care for those which hate the King? Oh no. Excise-men for the gods be very commo<g ref="char:EOLhyphen"/>dious, the name of Commit<g ref="char:EOLhyphen"/>tees to good men is odious.
+<q>
+                  <sp>
+                     <pb facs="tcp:115632:4"/>
+                     <speaker>N.</speaker>
+                     <p>Ought the gods at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> the Armie, the Divines, the assembling of the saints, the sitting of Committees, and the gatherer of Excises to be highly esteem<g ref="char:EOLhyphen"/>ed?</p>
+                  </sp>
+               </q> No, for they are Traitors to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kings Crown, Rebels to the Nation, inhumane crea<g ref="char:EOLhyphen"/>tures, devouring Dragons, spitting forth their poyson<g ref="char:EOLhyphen"/>ing stinke.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>O Yes, for by these the Na<g ref="char:EOLhyphen"/>tion is freed, 1 of a King, 2. of a Queen, 3. of a Prince and a Duke, 4. freed from Bishops and the like, which will cause glorie to this Nation, heapes of joy will come so fast that the sonnes and servants of the gods will thinke the hils and mountaines will dance and leap for joy.</p>
+                  </sp>
+               </q> It would be better if they were all hang'd, than King <hi>Charles</hi> should be unthroned, or the Queen, Prince, and Duke desouled, but the bloud of Gods dear children cries out for ven<g ref="char:EOLhyphen"/>geance, your sins stinke like the dung-hill in Gods nostrils, your peace is turnd into war, our King to many kings,
+<q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Then it is very good the King should be cut off and o<g ref="char:EOLhyphen"/>thers sit on the Throne appoint<g ref="char:EOLhyphen"/>ed by the gods at <hi>Westminster?</hi>
+                     </p>
+                  </sp>
+               </q> The worst thing that ever was hatch'd, a plot acted by the Devil.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>Nothing like it.</p>
+                  </sp>
+               </q>
+               <q>
+                  <sp>
+                     <speaker>N.</speaker>
+                     <p>Seeing your god<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> are ho<g ref="char:EOLhyphen"/>noured so, upon condition I may be preferred to an Excise Office, I will ever honour your gods, hate King <hi>Charles,</hi> love <hi>Thomas,</hi> which shall be King, and fight whilst I have a leg to stand on.</p>
+                  </sp>
+               </q> Thou fool, What wilt thou for<g ref="char:EOLhyphen"/>sake the truth of God, the Commandments of God, and joyn to the Devils way onely for a little mucke: but, Birds of a feather Will flocke together.
+<q>
+                  <sp>
+                     <speaker>R.</speaker>
+                     <p>I am glad thou art convert<g ref="char:EOLhyphen"/>ed, thou shalt be preferrd, if ever thou wilt renounce the King and the ancient Lawes.</p>
+                  </sp>
+               </q> Thou Roundheaded Knave, which converted hath A Newter from his former faith.</p>
+            <lg>
+               <l>But Knaves have learn'd such knavish arts,</l>
+               <l>They'l fight for <hi>Tom</hi> the knave of Hearts.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb facs="tcp:115632:4"/>
+            <head>
+               <hi>A Song concerning</hi> Mercurius Britannicus,</head>
+            <opener>
+               <hi>To the Tune of</hi> When the King enjoyes his Rights again, <hi>&amp;c.</hi>
+            </opener>
+            <lg>
+               <l>
+                  <hi>BRitannicus</hi> that Son of a Whore,</l>
+               <l>Hatch'd by a Parliament before,</l>
+               <l>Instructed by a Puritan,</l>
+               <l>Rebellious writ since Warres began,</l>
+               <l>Against the King,</l>
+               <l>in every thing,</l>
+               <l>And scandeliz'd the Royal Train,</l>
+               <l>Behold Parliament,</l>
+               <l>your own hearts content,</l>
+               <l>
+                  <hi>Britannicus</hi> is come from Hell again.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lucifer</hi> this <hi>Cerberus</hi> got</l>
+               <l>Of <hi>Succubus,</hi> full well I wot,</l>
+               <l>
+                  <hi>Belzebub</hi> his Grandsire is,</l>
+               <l>And <hi>Pithon</hi> did this Villain kisse,</l>
+               <l>With <hi>Lemures,</hi>
+               </l>
+               <l>he walkes and allures</l>
+               <l>Those men which love the royal Train,</l>
+               <l>Behold Parliament,</l>
+               <l>your own hearts content,</l>
+               <l>
+                  <hi>Britannicus</hi> is come from Hell again.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Belial</hi> borrowed <hi>Pluto's</hi> Horse,</l>
+               <l>And brought him by the Furies force,</l>
+               <l>Here he was and did remain</l>
+               <l>Till Fiends did fetch him backe again,</l>
+               <l>He came to his rest,</l>
+               <l>and there was blest,</l>
+               <l>By th' Devil and his infernal train,</l>
+               <l>Behold Parliament,</l>
+               <l>your hearts content,</l>
+               <l>
+                  <hi>Britannicus</hi> is come from Hell again.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Orphneus</hi> one of the Horses of Hell</l>
+               <l>Brought him by a charming spell,</l>
+               <l>Because his father he doth serve,</l>
+               <l>And from his statutes will not swerve</l>
+               <l>For he before</l>
+               <l>aloud did rore,</l>
+               <l>Against the King and royal Train,</l>
+               <l>Behold Parliament,</l>
+               <l>your own hearts content,</l>
+               <l>
+                  <hi>Britannicus</hi> is come from Hell again.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Incubus</hi> that great mighty Mare,</l>
+               <l>In this fame Imp hath a great share,</l>
+               <l>Now here a fiend doth him possesse,</l>
+               <l>And shews him how to wright his messe</l>
+               <l>Of cursed Broth,</l>
+               <l>he hath made a troth</l>
+               <l>To <hi>Pluto</hi> servile hee'l remain,</l>
+               <l>Behold Parliament,</l>
+               <l>your own content,</l>
+               <l>
+                  <hi>Britannicus</hi> is come from Hell again.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:115632:5"/>
+            <l>THou <hi>England</hi> which art violated,</l>
+            <l>Thy wrongs, let them be highly rated:</l>
+            <l>The King which is thy Soveraigne Lord</l>
+            <l>He is kept under by the Sword,</l>
+            <l>Ignoble Lords do keep him out,</l>
+            <l>Which shew themselves a swinish rout:</l>
+            <l>Although their beames a while do glow,</l>
+            <l>I hope to see their overthrow:</l>
+            <l>Ʋsurping men to rule, no King</l>
+            <l>Me thinkes is base in every thing.</l>
+            <l>Did <hi>Pluto's</hi> Palace consecrate</l>
+            <l>To you which call your selves the State?</l>
+            <l>Then sure it comes by th'Devils power,</l>
+            <l>And needs must weather like a flower.</l>
+            <l>Though you our bloud do drinke and quafe,</l>
+            <l>And make our sorrow all your lafe.</l>
+            <l>This stormy Night will passe away,</l>
+            <l>We sure shall see a glorious day.</l>
+            <l>Then weep no more, but girt about</l>
+            <l>Your Armour on, then range throughout</l>
+            <l>The spacious fields, upon some plain</l>
+            <l>Whereas your Brethren have been slain,</l>
+            <l>There also die, or ever live</l>
+            <l>To have your own, then you may give</l>
+            <l>To <hi>Charles</hi> his due, and Traitours eke,</l>
+            <l>Which for our ruine dayly seek,</l>
+            <l>But never look for peace to come,</l>
+            <l>Without the sound of trumpe and drum.</l>
+            <l>You see to mischief they are bent,</l>
+            <l>This is the fruits of Parliament.</l>
+            <l>Clatter your Swords, let Musquets flie,</l>
+            <l>To th' King they are an Enemie.</l>
+            <l>Alas poor Land! Is this thy hope?</l>
+            <l>To take the Devil, shun the Pope:</l>
+            <l>You see your misery and state,</l>
+            <l>How you are kill'd, how they you hate,</l>
+            <l>And dayes of joy do celebrate.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
